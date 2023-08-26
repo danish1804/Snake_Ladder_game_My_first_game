@@ -1,6 +1,6 @@
 # Snake and Ladder Game in C++
 
-![Snake and Ladder](snake_and_ladder.png)
+
 
 This is a simple implementation of the classic Snake and Ladder game using C++. The game is played on the command line interface (CLI) and supports both single-player and multiplayer modes. Have fun reliving your childhood memories with this digital version of the game!
 
