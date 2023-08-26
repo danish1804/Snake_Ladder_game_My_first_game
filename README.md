@@ -13,7 +13,7 @@ This is a simple implementation of the classic Snake and Ladder game using C++. 
 cd Snake_Ladder_game_My_first_game
 
 3. Compile the code using a C++ compiler. For example, using g++:
-g++ main.cpp -o g++ main.cpp -o Snake_Ladder_game_My_first_game
+ g++ main.cpp -o Snake_Ladder_game_My_first_game
 4. Run the executable:
 ./Snake_Ladder_game_My_first_game
 
